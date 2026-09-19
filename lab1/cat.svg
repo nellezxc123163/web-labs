@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+  <rect width="400" height="400" fill="#cfe3f5"/>
+  <polygon points="90,140 110,50 170,105" fill="#e8963c"/>
+  <polygon points="310,140 290,50 230,105" fill="#e8963c"/>
+  <polygon points="108,120 116,80 145,105" fill="#f4b6c2"/>
+  <polygon points="292,120 284,80 255,105" fill="#f4b6c2"/>
+  <ellipse cx="200" cy="220" rx="130" ry="115" fill="#e8963c"/>
+  <ellipse cx="150" cy="200" rx="20" ry="26" fill="#fff"/>
+  <ellipse cx="250" cy="200" rx="20" ry="26" fill="#fff"/>
+  <ellipse cx="152" cy="204" rx="9" ry="16" fill="#222"/>
+  <ellipse cx="248" cy="204" rx="9" ry="16" fill="#222"/>
+  <polygon points="188,240 212,240 200,256" fill="#d9607a"/>
+  <path d="M200 256 Q190 275 170 270 M200 256 Q210 275 230 270" stroke="#222" stroke-width="3" fill="none"/>
+  <g stroke="#222" stroke-width="2">
+    <line x1="60" y1="235" x2="150" y2="245"/><line x1="60" y1="265" x2="150" y2="255"/>
+    <line x1="340" y1="235" x2="250" y2="245"/><line x1="340" y1="265" x2="250" y2="255"/>
+  </g>
+</svg>
