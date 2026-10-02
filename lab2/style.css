@@ -1,0 +1,74 @@
+/* Подложка страницы */
+body {
+    background: #dfe7ef;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/* Заголовки */
+.title {
+    font-size: 32px;
+    color: #2a5d9f;
+    margin: 0 0 16px 0;
+}
+
+.subtitle {
+    font-size: 22px;
+    color: rgb(181, 69, 27);
+    margin: 24px 0 10px 0;
+}
+
+/* Параграфы */
+.text {
+    font-size: 18px;
+    color: #222222;
+    margin: 0 0 12px 0;
+}
+
+/* Списки */
+.list {
+    font-size: 17px;
+    color: #333333;
+    margin: 0;
+    padding-left: 30px;
+}
+
+/* Ссылки */
+.link {
+    font-size: 18px;
+    color: hsl(210, 60%, 40%);
+    padding: 2px 4px;
+}
+
+/* Контейнер для двух карточек */
+.content {
+    display: flex;
+    margin: 30px;
+}
+
+/* Левая карточка: информация о себе */
+.content-left {
+    width: 65%;
+    background: #ffffff;
+    margin: 10px;
+    padding: 25px;
+    border: 2px solid #b8c7d9;
+    border-radius: 15px;
+}
+
+/* Правая карточка: фотография */
+.content-right {
+    width: 35%;
+    background: #fdf6ec;
+    margin: 10px;
+    padding: 25px;
+    border: 2px solid #e6cfa8;
+    border-radius: 15px;
+}
+
+/* Размеры фотографии */
+.photo {
+    width: 100%;
+    border: 3px solid #2a5d9f;
+    border-radius: 10px;
+}
