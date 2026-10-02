@@ -1,3 +1,8 @@
+/* padding и border входят в заданную ширину */
+* {
+    box-sizing: border-box;
+}
+
 /* Подложка страницы */
 body {
     background: #dfe7ef;
